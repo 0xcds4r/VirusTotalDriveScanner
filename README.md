@@ -6,6 +6,8 @@ This tool will allow you to check your PC for malicious files/programs.
 To do this, the VirusTotal API is used to guarantee the quality of verification, 
 however, this may take some time if we proceed from the limitations of API requests.
 
+The final result will appear on your desktop, in the file: virustotal_output.log
+
 ![python3 10_nE53BbMzzm](https://user-images.githubusercontent.com/32211521/222095129-4f564597-bc3a-4fed-8529-1cf8c7540d58.png)
 
 Python version is 3.10.5
