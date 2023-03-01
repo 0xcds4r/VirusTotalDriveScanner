@@ -29,7 +29,7 @@ And get the API key, more detailed instructions are described at this link:
 https://developers.virustotal.com/reference/getting-started
 ```
 
-Before using the utility, you should edit its code (Open VTDS.py in your editor), find the following line in it:
+Before using the utility, you should edit its code (Open VTDS.py in text editor), find the following line in it:
 ```
 API_KEY = 'ENTER_HERE_YOUR_API_KEY'
 ```
